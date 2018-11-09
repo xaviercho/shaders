@@ -1,0 +1,72 @@
+﻿  try.cpp
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\angel.h(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\mat.h(743): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\header.h(41): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(62): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(93): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(95): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(137): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(141): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(141): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(142): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(142): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(143): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(143): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(157): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(158): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(159): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(198): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(202): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(203): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\source.h(204): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(84): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(85): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(86): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(118): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(121): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(124): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(162): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(168): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(177): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(178): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(180): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(183): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(184): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(186): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(189): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(190): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(193): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(194): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(202): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(207): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(234): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(235): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(239): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(240): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(297): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(300): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(303): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\try.cpp(306): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+  InitShader.cpp
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\angel.h(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\choxa\desktop\cho.xavier.graphics.hw4\cho.xavier.graphics.hw4\consoleapplication41\consoleapplication41\mat.h(743): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  LINK : C:\Users\choxa\Desktop\Cho.Xavier.Graphics.hw4\Cho.Xavier.Graphics.hw4\ConsoleApplication41\Debug\ConsoleApplication41.exe not found or not built by the last incremental link; performing full link
+  ConsoleApplication41.vcxproj -> C:\Users\choxa\Desktop\Cho.Xavier.Graphics.hw4\Cho.Xavier.Graphics.hw4\ConsoleApplication41\Debug\ConsoleApplication41.exe
+  ConsoleApplication41.vcxproj -> C:\Users\choxa\Desktop\Cho.Xavier.Graphics.hw4\Cho.Xavier.Graphics.hw4\ConsoleApplication41\Debug\ConsoleApplication41.pdb (Full PDB)
